@@ -13,7 +13,7 @@ Your job is to finish it **with the help of AI coding assistants** such as Curso
 
 ## Structure
 
-Assignments are in `/assignments`:
+Assignments are in [docs/assignments](docs/assignments):
 
 0. Warmup
 1. Database & TypeORM
